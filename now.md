@@ -7,5 +7,5 @@
 ## random junk down here
 
 
-221122 - here's a link to look at in quotes
-221122 - i made an update. aren't you impressed?
+221122 - here's a link to look at in quotes<br>
+221122 - i made an update. aren't you impressed?<br>
