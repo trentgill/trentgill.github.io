@@ -5,3 +5,5 @@ some text to get started. this is a longer paragraph and i need to keep typing s
 ![](/image/test.JPG)
 
 that should be an image!
+
+the log is over here -> [~~~~~~~](now.html)
