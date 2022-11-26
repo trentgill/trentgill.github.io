@@ -13,3 +13,4 @@
 221122 - i'm sitting at the table with taylor. it's nice<br>
 221123 - i wrote this on the command line by entering 'x' then my message<br>
 221126 - doubt increases exponentially the nearer you are to the finish line<br>
+221126 - doubt increases exponentially the nearer you are to the finish line<br>
